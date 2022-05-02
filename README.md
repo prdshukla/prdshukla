@@ -1,4 +1,4 @@
-Welcome to my Github page
+Welcome to my Github Repo
 
 - 👋 Hi, I’m Pradeep Shukla
 - 👀 I’m interested in solutions architecture, automation (RPA, AI, ML), cloud and various other emerging technologies.
