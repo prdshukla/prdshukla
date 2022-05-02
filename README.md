@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pradeep Shukla
-- 👀 I’m interested in solutions architecture, automation, cloud and various other emerging technologies.
+- 👀 I’m interested in solutions architecture, automation (RPA, AI, ML), cloud and various other emerging technologies.
 - 🌱 I’m currently learning NLP \ NLU, Tensorflow & Deep Learning.
 - 💞️ I’m looking to collaborate on automations projects on ML, RPA & cloud.
 - 📫 Email: prdshukla@gmail.com
