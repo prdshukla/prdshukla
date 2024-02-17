@@ -1,9 +1,9 @@
 Welcome to my Github Repo
 
 - 👋 Hi, I’m Pradeep Shukla
-- 👀 I’m interested in solutions architecture, automation (RPA, AI, ML), cloud and various other emerging technologies.
-- 🌱 I’m currently learning NLP \ NLU, Tensorflow & Deep Learning.
-- 💞️ I’m looking to collaborate on automations projects on ML, RPA & cloud.
+- 👀 Interested in solutions architecture, automation (RPA, AI, ML), cloud and various other emerging technologies.
+- 🌱 Currently developing solutions using NLP \ NLU, Tensorflow & Deep Learning.
+- 💞️ Open to collaborate on automation projects on ML, RPA & cloud.
 - 📫 Email: prdshukla@gmail.com
 
 <!---
